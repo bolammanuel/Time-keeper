@@ -32,8 +32,3 @@ The interface is intentionally minimal to reduce distractions and maintain clari
 ## 🎯 Purpose
 
 The goal of this project is to demonstrate practical implementation of time-based logic in JavaScript while maintaining clean UI structure and readable code organization.
-
-## 👨🏽‍💻 Author
-
-Emmanuel Ajibola  
-GitHub: https://github.com/bolammanuel
