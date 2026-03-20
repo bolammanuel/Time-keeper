@@ -17,9 +17,13 @@ The interface is intentionally minimal to reduce distractions and maintain clari
 
 ## Tech Stack
 
-- HTML  
-- CSS  
-- REACT 
+- React 18 — component-based UI and state management
+- Vite — build tool and dev server
+- vite-plugin-pwa — service worker, offline caching, and installability
+- Web Audio API — native browser API for the tick sounds and chime
+- SVG — the analog tick-ring clock face
+- Pure inline styles — no CSS framework, no UI library
+- Netlify — hosting and deployment
 
 ## Features
 
