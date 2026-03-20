@@ -19,7 +19,7 @@ The interface is intentionally minimal to reduce distractions and maintain clari
 
 - HTML  
 - CSS  
-- JavaScript  
+- REACT 
 
 ## Features
 
